@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="strHome">Digite dois números e a operação desejada!</string>
+    <string name="strOperando1">Operando 1</string>
+    <string name="strOperando2">Operando 2</string>
+    <string name="strSoma">+</string>
+    <string name="strSubtracao">-</string>
+    <string name="strMultiplicacao">*</string>
+    <string name="strDivisao">/</string>
+
+</resources>
