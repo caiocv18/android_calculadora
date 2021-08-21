@@ -51,4 +51,14 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
+    <TextView
+        android:id="@+id/txtResultado"
+        android:hint="@string/strResultado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="32sp"
+        android:gravity="center"
+        android:textColor="@color/blue"
+        android:text=" "/>
+
 </LinearLayout>

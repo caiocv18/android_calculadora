@@ -7,5 +7,6 @@
     <string name="strSubtracao">-</string>
     <string name="strMultiplicacao">*</string>
     <string name="strDivisao">/</string>
+    <string name="strResultado">/</string>
 
 </resources>
