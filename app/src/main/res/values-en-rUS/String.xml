@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="strHome">Enter two numbers and the desired operation!</string>
+    <string name="strOperando1">Operator 1</string>
+    <string name="strOperando2">Operator 2</string>
+    <string name="strSoma">+</string>
+    <string name="strSubtracao">-</string>
+    <string name="strMultiplicacao">*</string>
+    <string name="strDivisao">/</string>
+    <string name="strResultado">/</string>
+</resources>
